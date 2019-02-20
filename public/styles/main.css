@@ -652,7 +652,7 @@ a.alignright {
   top: 0;
   width: 100%;
   height: 100%;
-  background: rgba(28, 32, 43, 0.7) url("../images/overlay.png");
+  background: rgba(28, 32, 43, .000000000001) url("../images/overlay.png");
   z-index: 5;
 }
 
