@@ -73,6 +73,10 @@ address {
   opacity: 0.7;
 }
 
+p {
+  font-size:16px;
+}
+
 ol,
 ul {
   padding: 0 0 0 30px;
