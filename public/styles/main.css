@@ -47,7 +47,7 @@ h2 a {
 
 h3 {
   margin: 0 0 30px;
-  font: 1.78571em / 1.1 Nothing You Could Do, cursive;
+  font: 1.78571em / 1.1 Nothing You Could Do;
 }
 
 h3 a {
@@ -2808,6 +2808,15 @@ form .message {
   #contacts .bg {
     background-image: url(../images/footer-bg-mobile.jpg);
   }
+  section#skills .section-inner .container .row {
+    padding-left: 35%;
+  }
+  section#projects .section-inner .container .filter li {
+    display:inline;
+  }
+  section#projects .section-inner .container .filter {
+    text-align:center;
+  }
 }
 
 @-webkit-keyframes letters-in {
@@ -3219,6 +3228,9 @@ a img.aligncenter {
   font-size:15px
 }
 
+#skills .container .row {
+  padding-left: 12%;
+}
 
 
 
