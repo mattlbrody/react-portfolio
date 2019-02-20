@@ -3232,5 +3232,7 @@ a img.aligncenter {
   padding-left: 12%;
 }
 
-
+.owl-unica .owl-pagination .owl-page {
+  margin-bottom: 20px;
+}
 
