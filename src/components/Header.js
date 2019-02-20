@@ -33,7 +33,7 @@ const Header = () => {
 
 		          <div className="intro">
 		            <header className="heading">
-		              <h1 className="wow zoomIn"><span className="name"><span className="fn">Matt Brody</span></span><span className="animated-letters category"><b className="is-visible">Developer</b></span></h1>
+		              <h1 className="wow zoomIn"><span className="name"><span className="fn">Matt Brody</span></span><span className=" category"><b className="is-visible">Developer</b></span></h1>
 		              <div className="separator wow zoomIn"></div>
 		            </header>
 		          </div>
