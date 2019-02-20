@@ -3,7 +3,7 @@ import React from 'react';
 const Experience = () => {
 	return (
 		<div>
-			<section id="expirience" className="section">
+			<section id="experience" className="section">
 		      <div className="section-inner">
 
 		        <div className="container">

@@ -41,6 +41,16 @@ const Projects = () => {
 		                </div>
 		              </div>
 		            </li>
+		            <li data-groups="[&quot;js&quot;]" className="works-item works-item-w"><a href="#works-item-details-17" className="works-item-link"><span className="works-item-thumb"><img src="images/reactyoutube1.png" width="250" height="250" alt="" /></span></a>
+		              <div id="works-item-details-17" className="popup mfp-hide">
+		                <figure><img src="images/reactyoutube2.png" width="750" height="500" alt="" /></figure>
+		                <div className="popup-inner">
+		                  <h3>React Youtube API</h3>
+		                  <p>This project uses the youtube api to pull in videos using the search bar. It's built in React and pulls in 5 videos per search.</p>
+		                  <div className="center"><a href="https://mattlbrody.github.io/React-Youtube-API/" rel="noopener noreferrer" target="_blank" className="btn">View site</a></div>
+		                </div>
+		              </div>
+		            </li>
 		            <li data-groups="[&quot;lesson&quot;]" className="works-item works-item-w"><a href="#works-item-details-3" className="works-item-link"><span className="works-item-thumb"><img src="images/clock1.png" width="250" height="250" alt="" /></span></a>
 		              <div id="works-item-details-3" className="popup mfp-hide">
 		                <figure><img src="images/clock2.png" width="750" height="500" alt="" /></figure>
@@ -48,16 +58,6 @@ const Projects = () => {
 		                  <h3>Digital Clock Lesson</h3>
 		                  <p>I created the clock lesson to show students how to start thinking like a developer. It's the first project where they'll need to combine several aspects of JavaScript together in order to make it work.</p>
 		                  <div className="center"><a href="http://codifyacademy.com/digitalclock/" rel="noopener noreferrer" target="_blank" className="btn">View site</a></div>
-		                </div>
-		              </div>
-		            </li>
-		            <li data-groups="[&quot;web&quot;]" className="works-item"><a href="#works-item-details-5" className="works-item-link"><span className="works-item-thumb"><img src="images/qanda1.png" width="250" height="250" alt="" /></span></a>
-		              <div id="works-item-details-5" className="popup mfp-hide">
-		                <figure><img src="images/qanda2.png" width="750" height="500" alt="" /></figure>
-		                <div className="popup-inner">
-		                  <h3>Student Q and A</h3>
-		                  <p>Students run into a lot of problems when they're learning, so I created a place they could go to get the most common questions answered. This eventually has become a place to get even more insights on the projects due each week.</p>
-		                  <div className="center"><a href="http://codifyacademy.com/codifyQandA/" rel="noopener noreferrer" target="_blank" className="btn">View site</a></div>
 		                </div>
 		              </div>
 		            </li>
@@ -78,6 +78,16 @@ const Projects = () => {
 		                  <h3>Digital Calculator Lesson</h3>
 		                  <p>Math is a common component of many real world projects. I created this calculator project so they could test out how well they understand how to manipulate numbers with JavaScript. Another hard one that feels great when completed.</p>
 		                  <div className="center"><a href="http://codifyacademy.com/project_calculator/" rel="noopener noreferrer" target="_blank" className="btn">View site</a></div>
+		                </div>
+		              </div>
+		            </li>
+		            <li data-groups="[&quot;js&quot;]" className="works-item"><a href="#works-item-details-18" className="works-item-link"><span className="works-item-thumb"><img src="images/reactapi2.png" width="250" height="250" alt="" /></span></a>
+		              <div id="works-item-details-18" className="popup mfp-hide">
+		                <figure><img src="images/reactapi1.png" width="750" height="500" alt="" /></figure>
+		                <div className="popup-inner">
+		                  <h3>React Unsplash API Image Search App</h3>
+		                  <p>Type in the search bar to pull up 10 images from unsplash based on the term you use. This is built in React and uses axios to pull in the api data.</p>
+		                  <div className="center"><a href="https://mattlbrody.github.io/ReactAPIpics/" rel="noopener noreferrer" target="_blank" className="btn">View site</a></div>
 		                </div>
 		              </div>
 		            </li>
@@ -128,16 +138,6 @@ const Projects = () => {
 		                  <h3>Angular Routes Project</h3>
 		                  <p>This entire page is built using angular. Angular is a JavaScript framework we taught towards the end of the course. MVC frameworks are a growing trend in web development and so it was important for us to make sure our grads are competent in the most popular one at the time.</p>
 		                  <div className="center"><a href="http://codifyacademy.com/routes/#/" rel="noopener noreferrer" target="_blank" className="btn">View site</a></div>
-		                </div>
-		              </div>
-		            </li>
-		            <li data-groups="[&quot;js&quot;]" className="works-item"><a href="#works-item-details-13" className="works-item-link"><span className="works-item-thumb"><img src="images/sorting1.png" width="250" height="250" alt="" /></span></a>
-		              <div id="works-item-details-13" className="popup mfp-hide">
-		                <figure><img src="images/sorting2.png" width="750" height="500" alt="" /></figure>
-		                <div className="popup-inner">
-		                  <h3>JavaScript Sorting App</h3>
-		                  <p>This was originally built to sort new students into teams. But it later became a project to show students how to use forms in JavaScript and include animations.</p>
-		                  <div className="center"><a href="http://codifyacademy.com/sorting/" rel="noopener noreferrer" target="_blank" className="btn">View site</a></div>
 		                </div>
 		              </div>
 		            </li>
