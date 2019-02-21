@@ -495,3 +495,15 @@
 	}());
 
 }(jQuery));
+
+window.addEventListener('scroll', function() {
+    if(window.scrollY > 650) {
+       	document.getElementById('builtinreact').style.visibility = "hidden";
+       	//$("#builtinreact").fadeOut();
+       	console.log('below 399')
+    }
+    if(window.scrollY < 700) {
+       	document.getElementById('builtinreact').style.visibility = "visible";
+       	//$("#builtinreact").fadein();
+    }
+});
