@@ -49,7 +49,7 @@ const Skills = () => {
 		                </div>
 		                <div data-progress="50" className="skills-item wow">
 		                  <div className="skills-item-progress"></div>
-		                  <h4>JSON</h4>
+		                  <h4>API's & JSON</h4>
 		                </div>
 		                <div data-progress="50" className="skills-item wow">
 		                  <div className="skills-item-progress"></div>
@@ -69,15 +69,15 @@ const Skills = () => {
 		                </div>
 		                <div data-progress="50" className="skills-item wow">
 		                  <div className="skills-item-progress"></div>
+		                  <h4>Redux</h4>
+		                </div>
+		                <div data-progress="50" className="skills-item wow">
+		                  <div className="skills-item-progress"></div>
+		                  <h4>React Native</h4>
+		                </div>
+		                <div data-progress="50" className="skills-item wow">
+		                  <div className="skills-item-progress"></div>
 		                  <h4>Angular</h4>
-		                </div>
-		                <div data-progress="50" className="skills-item wow">
-		                  <div className="skills-item-progress"></div>
-		                  <h4>Vue</h4>
-		                </div>
-		                <div data-progress="50" className="skills-item wow">
-		                  <div className="skills-item-progress"></div>
-		                  <h4>API's</h4>
 		                </div>
 		                <div data-progress="50" className="skills-item wow">
 		                  <div className="skills-item-progress"></div>

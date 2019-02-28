@@ -16,25 +16,25 @@ const Experience = () => {
 		          <div className="expirience">
 		            <div className="expirience-item">
 		              <div className="icon-b wow bounceIn"><i className="fa fa-briefcase"></i></div>
-		              <div className="expirience-item-inner wow bounceInLeft">
-		                <div className="date">2018 - Present</div>
-		                <h3>Uriise.com:<br />Web Developer</h3>
-		                <p>I built out the Uriise platform using Wordpress, HTML, and CSS. I've connected to plugins to add a lot more functionality. I created the user-interface to increase conversion rates. I handle all of the hosting.</p>
-		              </div>
-		            </div>
-		            <div className="expirience-item">
-		              <div className="icon-b wow bounceIn"><i className="fa fa-briefcase"></i></div>
 		              <div className="expirience-item-inner wow bounceInRight">
 		                <div className="date">2014 - Present</div>
-		                <h3>Codify Academy: Co-Founder / Instructor / Web Developer</h3>
+		                <h3>Codify Academy: Web Developer / Instructor / Co-Founder</h3>
 		                <p>I started Codify Academy because the bay area is too expensive for most people to live comfortably and there are a ton of empty developer jobs to fill. I created the course content, taught lessons and built out our sales and marketing automation platforms. I grew a team and had a lot of fun along the way.</p>
 		              </div>
 		            </div>
 		            <div className="expirience-item">
 		              <div className="icon-b wow bounceIn"><i className="fa fa-briefcase"></i></div>
 		              <div className="expirience-item-inner wow bounceInLeft">
+		                <div className="date">2018</div>
+		                <h3>Uriise.com:<br />Web Developer</h3>
+		                <p>I built out the Uriise platform using Wordpress, HTML, and CSS. I've connected to plugins to add a lot more functionality. I created the user-interface to increase conversion rates. I handle all of the hosting.</p>
+		              </div>
+		            </div>
+		            <div className="expirience-item">
+		              <div className="icon-b wow bounceIn"><i className="fa fa-briefcase"></i></div>
+		              <div className="expirience-item-inner wow bounceInLeft">
 		                <div className="date">2017</div>
-		                <h3>Cybrid Industries:<br />Co-Founder / Web Developer</h3>
+		                <h3>Cybrid Industries:<br />Web Developer / Co-Founder</h3>
 		                <p>Cybrid Industries started because I built out an A.I. chat bot for Codify Academy's website. A graduate from Codify Academy and myself went out to perfect what we built and tried to sell it to other companies.</p>
 		              </div>
 		            </div>
@@ -44,6 +44,14 @@ const Experience = () => {
 		                <div className="date">2014</div>
 		                <h3>Headsets.com:<br /> Web Developer / Web Designer</h3>
 		                <p>I set up A/B split tests and made the company millions of dollars by increasing their conversion rates. The owner, Mike Faith, took me under his wing and helped me build Codify Academy.</p>
+		              </div>
+		            </div>
+		            <div className="expirience-item">
+		              <div className="icon-b wow bounceIn"><i className="fa fa-briefcase"></i></div>
+		              <div className="expirience-item-inner wow bounceInRight">
+		                <div className="date">2011 - 2014</div>
+		                <h3>Front End Matt:<br />Front End Developer</h3>
+		                <p>I built websites for clients using HTML, CSS, BootStrap, jQuery, and JavaScript. I managed their hosting and helped with designing their websites.</p>
 		              </div>
 		            </div>
 		            <div className="expirience-item">
