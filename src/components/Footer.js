@@ -19,17 +19,17 @@ const Footer = () => {
 		              <div className="col span_4">
 		                <div className="contacts-item">
 		                  <div className="icon-b"><i className="fa fa-map-marker"></i></div>
-		                  <address className="adr"><span className="country-name">Australia</span>, <span className="locality">Gold Coast</span>, <br /><span className="street-address">Burleigh Heads</span></address>
+		                  <address className="adr"><span className="locality">St. Louis</span>, <br /><span className="street-address">Missouri</span></address>
 		                </div>
 		              </div>
 		              <div className="col span_4">
 		                <div className="contacts-item">
-		                  <div className="icon-b"><i className="fa fa-phone"></i></div><span className="tel">+61 0438 243 173</span>
+		                  <div className="icon-b"><i className="fa fa-phone"></i></div><span className="tel">(314) 285-9505</span>
 		                </div>
 		              </div>
 		              <div className="col span_4">
 		                <div className="contacts-item">
-		                  <div className="icon-b"><i className="fa fa-send"></i></div><a href="mailto:mail@yoursite.com" className="email">mattbrody@codifyacademy.com</a>
+		                  <div className="icon-b"><i className="fa fa-send"></i></div><a href="mailto:mail@yoursite.com" className="email">mattlbrody@gmail.com</a>
 		                </div>
 		              </div>
 		            </div>
